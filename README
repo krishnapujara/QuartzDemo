@@ -1,0 +1,5 @@
+Sample quartz project demo which prints "Hello Quartz!" at every one minute.
+
+Quartz version - 2.2.0
+tomcat - 7.0.54
+
