@@ -5,6 +5,6 @@
     <title></title>
   </head>
   <body>
-    <h1>Quartx Demo</h1>
+    <h1>Quartx Demo master</h1>
   </body>
 </html>
