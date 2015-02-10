@@ -10,7 +10,7 @@ public class HelloJob implements Job
     public void execute(JobExecutionContext context)
             throws JobExecutionException {
 
-        System.out.println("Hello Quartz!");
+        System.out.println("Hello Quartz 2!");
 
         //connect to the mongoDB server
         MongoClient mongo = null;
