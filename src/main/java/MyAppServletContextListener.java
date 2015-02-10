@@ -16,7 +16,7 @@ public class MyAppServletContextListener implements ServletContextListener{
     //Run this before web application is started
     @Override
     public void contextInitialized(ServletContextEvent servletContextEvent) {
-        System.out.println("ServletContextListener started");
+        System.out.println("ServletContextListener started 1");
         ServletContext ctx = servletContextEvent.getServletContext();
         StdSchedulerFactory factory = (StdSchedulerFactory) ctx.getAttribute(QuartzInitializerListener.QUARTZ_FACTORY_KEY);
 
